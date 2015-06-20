@@ -1,8 +1,8 @@
 /* 
- * File:   main.cpp
+ * File:   newmain.cpp
  * Author: WONSEOB
  *
- * Created on June 20, 2015, 7:23 PM
+ * Created on June 20, 2015, 7:43 PM
  */
 
 #include <cstdlib>

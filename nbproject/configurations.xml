@@ -12,7 +12,9 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>main.cpp</itemPath>
+      <itemPath>2_1.cpp</itemPath>
+      <itemPath>2_2.cpp</itemPath>
+      <itemPath>newmain.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
                    displayName="Test Files"
@@ -36,7 +38,11 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      <item path="2_1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="2_2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="newmain.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -59,7 +65,11 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      <item path="2_1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="2_2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="newmain.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
   </confs>
